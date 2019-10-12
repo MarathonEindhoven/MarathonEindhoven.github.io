@@ -15,10 +15,14 @@ Is it possible to take sports measurements from a video made with your mobile ph
 </div>
 
 
-![TU Delft](Delft.jpeg)
-
-
-![RadboudUMC](Radboudumc_700px_RGB.jpg)
+<div class="row">
+  <div class="column">
+    <img src="Delft.jpeg" align="bottom" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="Radboudumc_700px_RGB.jpg" style="width:100%">
+  </div>
+</div>
 
 
 </body>
