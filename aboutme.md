@@ -17,10 +17,10 @@ Is it possible to take sports measurements from a video made with your mobile ph
 
 <div class="row">
   <div class="column">
-    <img src="Delft.jpeg" align="bottom" style="width:100%" />
+    <img src="img/Delft.jpeg" align="bottom" style="width:100%" />
   </div>
   <div class="column">
-    <img src="Radboudumc_700px_RGB.jpg" style="width:100%" />
+    <img src="img/Radboudumc_700px_RGB.jpg" style="width:100%" />
   </div>
 </div>
 
