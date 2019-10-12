@@ -15,4 +15,18 @@ Is it possible to take sports measurements from a video made with your mobile ph
 </div>
 
 
+<center>
+<h2><a href="http://marathoneindhovendata.ewi.tudelft.nl/">Upload data</a> </h2>
+</center>
+
+<div class="row">
+  <div class="column">
+    <img src="Delft.jpeg" align="bottom" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="Radboudumc_700px_RGB.jpg" style="width:100%">
+  </div>
+</div>
+
+
 </body>
